@@ -1,2 +1,5 @@
 wp-config.php
 wp-content/uploads/*
+6
+^X
+
